@@ -1,0 +1,6 @@
+{
+  "name": "Adam's World Globe",
+  "description": "An interactive, realistic 3D Google Earth-style world globe for exploring continents, countries, capitals, wildlife, and playing the Find It geography quiz offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
